@@ -1,16 +1,13 @@
 .mypic img {
-  margin-left: auto;
-  margin-top: auto;
-  width: 320px;
-  height: 200px;
-  border-radius: 25px;
-}
+    width: 100%;
+    margin-top: 15px;
+    border-radius: 25px;
+  }
 
 .heading {
   background-color: rgba(80, 80, 80, .1);
-  /*border: solid 2px black;*/
-  border-radius: 25px;
-}
+  border-bottom: double;
+  }
 
 .myinfo {
   border-radius: 25px;
@@ -18,8 +15,17 @@
   text-align: center;
 }
 
+.myinfo li {
+  list-style: none;
+  margin-right: 25px;;
+}
+
 .main {
   margin-top: 25px;
+}
+
+#shelter li {
+  display: inline;
 }
 
 .bottom {
