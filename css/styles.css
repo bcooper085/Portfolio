@@ -8,12 +8,24 @@
 
 .heading {
   background-color: rgba(80, 80, 80, .1);
-  border: solid 2px black;
+  /*border: solid 2px black;*/
   border-radius: 25px;
 }
 
 .myinfo {
   border-radius: 25px;
   padding: 10px;
+  text-align: center;
+}
+
+.main {
+  margin-top: 25px;
+}
+
+.bottom {
+  margin-top: 25px;
+}
+
+.footer {
   text-align: center;
 }
