@@ -1,17 +1,31 @@
+body {
+  background-image: url("../img/bg.jpg");
+}
+
 .mypic img {
-    width: 100%;
-    margin-top: 15px;
-    border-radius: 25px;
+  width: 100%;
+  margin-top: 15px;
+  border-radius: 25px;
+  }
+
+iframe {
+  width: 100%;
   }
 
 .heading {
-  background-color: rgba(80, 80, 80, .1);
+  background-color: rgba(80, 80, 80, .2);
   border-bottom: double;
   }
 
 .myinfo {
   border-radius: 25px;
   padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.white {
+  color: white;
   text-align: center;
 }
 
@@ -21,7 +35,7 @@
 }
 
 .main {
-  margin-top: 25px;
+  margin-top: 45px;
 }
 
 #shelter li {
@@ -29,10 +43,9 @@
 }
 
 .bottom {
-  margin-top: 25px;
+  margin-top: 45px;
 }
 
 .footer {
-  text-align: center;
-  background-color: rgba(80, 80, 80, .1);
+  background-color: rgba(80, 80, 80, .2);
 }
