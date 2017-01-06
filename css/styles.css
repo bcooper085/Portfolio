@@ -2,22 +2,18 @@
   margin-left: auto;
   margin-top: auto;
   width: 320px;
-  height: auto;
+  height: 200px;
   border-radius: 25px;
 }
 
 .heading {
+  background-color: rgba(80, 80, 80, .1);
   border: solid 2px black;
   border-radius: 25px;
 }
 
 .myinfo {
-  background-color: rgba(80, 80, 80, .1);
   border-radius: 25px;
   padding: 10px;
   text-align: center;
-}
-
-.featured {
-  border: solid 1px black;
 }
