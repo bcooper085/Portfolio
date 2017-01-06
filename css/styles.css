@@ -1,0 +1,15 @@
+.mypic img {
+  width: 400px;
+  border-radius: 25px;
+  float: left;
+
+}
+
+.myinfo {
+
+}
+
+.well {
+  position: absolute;
+  text-align: center;
+}
