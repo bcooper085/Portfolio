@@ -13,7 +13,7 @@ Setup
 
 Clone this repository.
 
-Be amazed
+Be amazed.
 
 ----------------------------------------
 Known Bugs
