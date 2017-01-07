@@ -6,16 +6,16 @@ body {
   width: 100%;
   margin-top: 15px;
   border-radius: 25px;
-  }
+}
 
 iframe {
   width: 100%;
-  }
+}
 
 .heading {
   background-color: rgba(80, 80, 80, .2);
   border-bottom: double;
-  }
+}
 
 .myinfo {
   border-radius: 25px;
@@ -46,6 +46,18 @@ iframe {
   margin-top: 45px;
 }
 
+.float-me {
+  float: right;
+}
+
+.float-me img {
+  margin-top: -25px;
+  margin-left: 80px;
+  width: 35%;
+
+}
+
 .footer {
   background-color: rgba(80, 80, 80, .2);
+  clear: both;
 }
